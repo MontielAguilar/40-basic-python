@@ -1,5 +1,7 @@
 # Introducción a la Programación con Python
 
+![Python Logo](https://github.com/MontielAguilar/40-basic-python/blob/main/python-logo.png)
+
 En este documento, se presenta una introducción básica a la programación utilizando Python como lenguaje de referencia. Se abordan conceptos fundamentales relacionados con operaciones aritméticas, asignación de variables y el uso de la función `print()` para mostrar información en la consola.
 
 ## Operadores Aritméticos
